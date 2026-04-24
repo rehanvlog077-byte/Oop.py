@@ -18,7 +18,7 @@ Powerful multi-tool for:
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/t-rex-tool.git
+git clone https://github.com/-Rehanqureshi/t-rex-tool.git
 cd t-rex-tool
 pip install -r requirements.txt
 python Oop.py
